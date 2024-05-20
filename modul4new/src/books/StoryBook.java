@@ -5,4 +5,3 @@ public class StoryBook extends Book {
         super(bookId, title, author, "Story", stock, duration);
     }
 }
-
